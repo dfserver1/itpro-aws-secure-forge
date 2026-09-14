@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/Offline-100%25%20sin%20backend-0ea5e9?style=for-the-badge" alt="Offline">
 </p>
 
-> **Plataforma interactiva, 100% offline y gratuita** para pasar de **cero a AWS Certified Security – Specialty (SCS-C02)**. Sin instalaciones raras: abre `index.html` y estudia. Tu progreso queda en tu navegador, no se comparte.
-
-**Demo en vivo:** `https://TUUSER.github.io/itpro-aws-secure-forge/` → abre `index.html` o usa `servidor.bat` para evitar el error 153 de YouTube en `file://`.
+> **Plataforma interactiva, 100% offline y gratuita** para pasar de **cero a AWS Certified Security – Specialty (SCS-C02)**. Tu progreso queda en tu navegador, no se comparte.
 
 ---
 
@@ -97,9 +95,18 @@ itpro-aws-secure-forge/
 
 ---
 
-## 🎯 Para reclutadores
+## 🎯 Por qué este proyecto impulsa tu perfil
 
-Este repo demuestra **IaC Guardrails (Terraform + cfn-guard), Automatización Boto3, CIS Benchmarks, SIEM Firehose y Runbooks** — justo lo que pide el JD de Security Specialty + Energy/Utility regulada. Clónalo, `terraform plan` Lab16 y `python -c "import boto3"` Lab15.
+Este no es un curso de videos sueltos. Es un **camino completo y práctico** para dominar AWS con mentalidad de seguridad — el perfil más buscado por empresas reguladas y de infraestructura crítica.
+
+**Qué te llevarás:**
+- **Fundamentos sólidos** (de cero, sin asumir nada) → entiendes cada servicio *qué es, para qué sirve y cómo se conecta*.
+- **Práctica real** — 19 labs guiados paso a paso que puedes replicar en tu cuenta Free Tier y mostrar en entrevistas.
+- **Automatización y IaC** — despliegues reproducibles con **Terraform** y **CloudFormation**, validados como guardrails.
+- **Seguridad aplicada** — desde CIS Benchmarks hasta respuesta automática ante hallazgos.
+- **Portafolio empleable** — 3 proyectos listos para GitHub, runbooks y diagramas que hablan por ti.
+
+Ideal si buscas dar el salto a **Cloud Security, DevSecOps o Arquitectura AWS**, y quieres un repositorio que demuestre —no solo que cuente— lo que sabes hacer.
 
 ---
 
