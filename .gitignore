@@ -1,0 +1,13 @@
+# Avance local no se sube (cada visitante inicia en 0%)
+# localStorage es por navegador, pero ignoramos artefactos locales
+*.log
+.DS_Store
+Thumbs.db
+data/
+downloads/
+reports/
+.env
+__pycache__/
+.terraform/
+*.tfstate
+*.tfstate.backup
